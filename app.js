@@ -3,20 +3,26 @@
 const legends = [
   {
     id: 1,
-    city: "Roma=e",
-    img: "https://www.hellomagazine.com/imagenes/travel/2018061449462/things-to-do-in-rome-3-days/0-243-749/Colosseum-Rome-t.jpg",
-    details: "Rome, capital of Italy"
+    city: "Bangkok",
+    img: "https://images.pexels.com/photos/209740/pexels-photo-209740.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    details: "Capital of Thailand..."
   },
   {
     id: 2,
-    city: "Rio De Janeiro",
-    img: "https://www.jetex.com/wp-content/uploads/2019/12/rio-de-janeiro-brazil-1000-667.jpg",
-    details: "Rio, capital of Brazil"
+    city: "New Delhi",
+    img: "https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    details: "Capital of India"
   },
   {
     id: 3,
-    city: "Lome",
-    img: "https://i.ytimg.com/vi/KO_Tu7WCOH8/maxresdefault.jpg",
-    details: "Rome, capital of Togo"
+    city: "Jarkata",
+    img: "https://images.pexels.com/photos/2126395/pexels-photo-2126395.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    details: "Capital of Indonesia"
+  },
+  {
+    id: 4,
+    city: "Tokyo",
+    img: "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    details: "Capital of Japan"
   }
 ]
